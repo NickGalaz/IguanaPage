@@ -18,7 +18,6 @@ p {
 	color: #ffffff;
 }
 
-
 .header {
 	font-size: 50px;
 	font-weight: 500;
@@ -61,7 +60,6 @@ p {
 	width: 100%;
 }
 
-
 .icon-section {
 	background-color: #1E1A13;
 	text-align: center;
@@ -78,8 +76,6 @@ p {
 	display: inline-block;
 	width: 30%;
 }
-
-
 
 .img-section {
 	text-align: center;
@@ -100,7 +96,6 @@ p {
 .image img {
 	width: 90%;
 }
-
 
 footer {
 	background-color: #1E1A13;
